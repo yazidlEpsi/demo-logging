@@ -1,0 +1,36 @@
+11:13:12.503 [main] INFO  dev.console.App -
+Bonjour Slf4J !
+11:13:12.505 [main] INFO  dev.console.App -
+Implémentation Logback
+11:13:13.931 [main] INFO  dev.console.App -
+Bonjour Slf4J !
+11:13:13.933 [main] INFO  dev.console.App -
+Implémentation Logback
+11:15:20.606 [main] INFO  dev.console.App -
+Bonjour Slf4J !
+11:15:20.608 [main] INFO  dev.console.App -
+Implémentation Logback
+11:15:22.079 [main] INFO  dev.console.App -
+Bonjour Slf4J !
+11:15:22.081 [main] INFO  dev.console.App -
+Implémentation Logback
+11:17:33.016 [main] WARN  dev.console.App -
+Bonjour Slf4J !
+11:17:33.018 [main] INFO  dev.console.App -
+Implémentation Logback
+11:17:34.402 [main] WARN  dev.console.App -
+Bonjour Slf4J !
+11:17:34.406 [main] INFO  dev.console.App -
+Implémentation Logback
+11:17:34.574 [main] WARN  dev.console.App -
+Bonjour Slf4J !
+11:17:34.576 [main] INFO  dev.console.App -
+Implémentation Logback
+11:22:30.562 [main] WARN  dev.console.App -
+Bonjour Slf4J !
+11:22:30.564 [main] INFO  dev.console.App -
+Implémentation Logback
+11:22:53.980 [main] WARN  dev.console.App -
+Bonjour Slf4J !
+11:22:53.982 [main] INFO  dev.console.App -
+Implémentation Logback
